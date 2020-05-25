@@ -5,6 +5,7 @@ body {
 .navbar {
     overflow: hidden;
     background-color: #333;
+
 }
 
 /* Style the topnav links */
@@ -29,6 +30,7 @@ body {
 .column {
     float: left;
     padding: 0px;
+    top: 16px;
 }
 
 /* Left and right column */
@@ -42,7 +44,7 @@ body {
 }
 
 .photo {
-    background-image: url(../photo.jpg);
+    background-image: url(../img/photo.jpg);
     height: 300px;
     width: 300px;
     background-size: cover;
@@ -66,17 +68,17 @@ figure {
 
 
 #bear {
-    background-image: url(../bear.jpg);
+    background-image: url(../img/bear.jpg);
 }
 
 #dragon {
-    background-image: url(../dragon.jpg);
+    background-image: url(../img/dragon.jpg);
 }
 
 #lion {
-    background-image: url(../lion.jpg);
+    background-image: url(../img/lion.jpg);
 }
 
 #rose {
-    background-image: url(../rose.jpg);
+    background-image: url(../img/rose.jpg);
 }
